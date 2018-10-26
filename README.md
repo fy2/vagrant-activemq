@@ -10,3 +10,5 @@ Assuming  you have already installed VirtualBox and Vagrant,
 You can access the ActiveMQ Admin at `http://10.0.10.34:8161/admin`
 
 Feel free to contact me in any case.
+
+I had to increase the memory a bit after provisioning
